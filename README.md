@@ -58,7 +58,7 @@ There are two ways to do this
 ### :hand:&nbsp; Stop!
 Watch [this video](https://www.youtube.com)
 
-### :ticket:&nbsp; 
+### :ticket:&nbsp; C'est fini.
 Entry ticket for class [here]()
   
 
