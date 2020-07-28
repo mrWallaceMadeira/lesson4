@@ -13,7 +13,7 @@ A few things of note here
   - The main method is _required_ to run a Java program
 2. `public class Main` defines a Java class named Main
   - A class is a collection of similar methods.
-  - You _do not_ need a class named Main.
+  - You _do not_ need a class named Main.\
 :round_pushpin:&nbsp; It's not important to memorize or even remember any of this right now.  It will come with time.
 
 ### String basics
@@ -23,7 +23,7 @@ English has nouns, verbs, adjectives, etc. English nouns are most similar to a *
 :question:&nbsp; What do nouns do?\
 Describe things.\
 :question:&nbsp; What do variables do?\
-Describe things.\
+Describe things.
 
 A tree is a noun, a **String** is a type of variable in Java.
 
@@ -57,8 +57,8 @@ There are two ways to do this
       
 ### :hand:&nbsp; Stop!
 Watch [this video](https://www.youtube.com)
-  
-  
+
+### :zap:&nbsp; [Quiz time]()
   
 
 
