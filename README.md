@@ -13,7 +13,8 @@ A few things of note here
   - The main method is _required_ to run a Java program
 2. `public class Main` defines a Java class named Main
   - A class is a collection of similar methods.
-  - You _do not_ need a class named Main.\
+  - You _do not_ need a class named Main.
+
 :round_pushpin:&nbsp; It's not important to memorize or even remember any of this right now.  It will come with time.
 
 ### String basics
