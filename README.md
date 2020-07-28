@@ -58,7 +58,8 @@ There are two ways to do this
 ### :hand:&nbsp; Stop!
 Watch [this video](https://www.youtube.com)
 
-### :zap:&nbsp; [Quiz time]()
+### :ticket:&nbsp; 
+Entry ticket for class [here]()
   
 
 
