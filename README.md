@@ -17,12 +17,13 @@ A few things of note here
 :round_pushpin:&nbsp; It's not important to memorize or even remember any of this right now.  It will come with time.
 
 ### String basics
-Let's construct an analogy.  Think of Java like English.  English has nouns, verbs, adjectives, etc. English nouns are most similar to a **variable** in Java.
+Let's construct an analogy.  Think of Java like English.\
+English has nouns, verbs, adjectives, etc. English nouns are most similar to a **variable** in Java.\
 
 :question:&nbsp; What do nouns do?\
-Describe things. 
+Describe things.\
 :question:&nbsp; What do variables do?\
-Describe things.
+Describe things.\
 
 A tree is a noun, a **String** is a type of variable in Java.
 
@@ -39,10 +40,11 @@ Java provides us with standard **methods** to do common things like printing.\
 One of those methods is `System.out.println`
 
 ### Comments: your own peanut gallery
-Sometimes you need to leave yourself (or your friends) notes within your code.
+Sometimes you need to leave yourself (or your friends) notes within your code.\
 There are two ways to do this
   1. `// i am a one-line comment`
-  2. ``
+  2. 
+  ```
     /**
       i am a multi-line comment. 
       We the People of the United States, in Order to form a more perfect Union, establish Justice, 
@@ -50,6 +52,8 @@ There are two ways to do this
       and secure the Blessings of Liberty to ourselves and our Posterity, 
       do ordain and establish this Constitution for the United States of 
     **/ 
+  ```
+    
       
 ### :hand:&nbsp; Stop!
 Watch [this video](https://www.youtube.com)
