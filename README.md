@@ -42,7 +42,7 @@ One of those methods is `System.out.println`
 Sometimes you need to leave yourself (or your friends) notes within your code.
 There are two ways to do this
   1. `// i am a one-line comment`
-  2. ```
+  2. ``
     /**
       i am a multi-line comment. 
       We the People of the United States, in Order to form a more perfect Union, establish Justice, 
