@@ -59,7 +59,7 @@ There are two ways to do this
 Watch [this video](https://www.youtube.com)
 
 ### :ticket:&nbsp; C'est fini.
-Entry ticket for class [here]()
+Entry ticket for class [here](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxURVRRTjBCR1g0NjJZRTBIREszQVYwVzMyNyQlQCN0PWcu)
   
 
 
