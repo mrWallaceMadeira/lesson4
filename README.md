@@ -8,9 +8,9 @@ You might recall this&nbsp; :arrow_down:
       }
   ```
   A few things of note here
-    - 1. `public static void main` defines a Java method named main.
+    1. `public static void main` defines a Java method named main.
       a. Think of a method like a collection of code that does similar things.
       b. The main method is _required_ to run a Java program
-    - 2. `public class Main` defines a Java class named Main
+    2. `public class Main` defines a Java class named Main
       a. A class is a collection of similar. You _do not_ need a class named Main.
   
