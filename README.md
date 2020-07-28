@@ -8,6 +8,7 @@ You might recall this&nbsp; :arrow_down:
       }
   ```
   A few things of note here
+  
     1. `public static void main` defines a Java method named main.
       * Think of a method like a collection of code that does similar things
       * The main method is _required_ to run a Java program
