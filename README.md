@@ -19,9 +19,9 @@ A few things of note here
 ### String basics
 Let's construct an analogy.  Think of Java like English.  English has nouns, verbs, adjectives, etc. English nouns are most similar to a **variable** in Java.
 
-:question:&nbsp; What do nouns do?
+:question:&nbsp; What do nouns do?\
 Describe things. 
-:question:&nbsp; What do variables do?
+:question:&nbsp; What do variables do?\
 Describe things.
 
 A tree is a noun, a **String** is a type of variable in Java.
@@ -49,8 +49,7 @@ There are two ways to do this
         insure domestic Tranquility, provide for the common defence, promote the general Welfare,
         and secure the Blessings of Liberty to ourselves and our Posterity, 
         do ordain and establish this Constitution for the United States of 
-      **/
-    ```
+      **/ ```
   
 
 
