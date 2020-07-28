@@ -43,13 +43,18 @@ Sometimes you need to leave yourself (or your friends) notes within your code.
 There are two ways to do this
   1. `// i am a one-line comment`
   2. ```
-      /**
-        i am a multi-line comment. 
-        We the People of the United States, in Order to form a more perfect Union, establish Justice, 
-        insure domestic Tranquility, provide for the common defence, promote the general Welfare,
-        and secure the Blessings of Liberty to ourselves and our Posterity, 
-        do ordain and establish this Constitution for the United States of 
-      **/ 
+    /**
+      i am a multi-line comment. 
+      We the People of the United States, in Order to form a more perfect Union, establish Justice, 
+      insure domestic Tranquility, provide for the common defence, promote the general Welfare,
+      and secure the Blessings of Liberty to ourselves and our Posterity, 
+      do ordain and establish this Constitution for the United States of 
+    **/ 
+      
+### :hand:&nbsp; Stop!
+Watch [this video](https://www.youtube.com)
+  
+  
   
 
 
