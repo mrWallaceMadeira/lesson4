@@ -19,7 +19,7 @@ A few things of note here
 
 ### String basics
 Let's construct an analogy.  Think of Java like English.\
-English has nouns, verbs, adjectives, etc. English nouns are most similar to a **variable** in Java.\
+English has nouns, verbs, adjectives, etc. English nouns are most similar to a **variable** in Java.
 
 :question:&nbsp; What do nouns do?\
 Describe things.\
@@ -54,10 +54,6 @@ There are two ways to do this
       do ordain and establish this Constitution for the United States of 
     **/ 
   ```
-    
-      
-### :hand:&nbsp; Stop!
-Watch [this video](https://www.youtube.com)
 
 ### :ticket:&nbsp; C'est fini.
 Entry ticket for class [here](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxURVRRTjBCR1g0NjJZRTBIREszQVYwVzMyNyQlQCN0PWcu)
