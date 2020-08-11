@@ -53,7 +53,8 @@ There are two ways to do this
   ```
   
 ### :hand:&nbsp; Stop!
-Watch [this video](https://themadeiraschool.sharepoint.com/:v:/r/sites/IntrotoCS/Shared%20Documents/General/Videos/lesson4Video1.mov?csf=1&web=1&e=rqigyZ)
+Watch [this video](https://themadeiraschool.sharepoint.com/sites/IntrotoCS/Shared%20Documents/General/Videos/lesson4Video1.mov)
+
 
 ### :ticket:&nbsp; C'est fini.
 Entry ticket for class [here](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxURVRRTjBCR1g0NjJZRTBIREszQVYwVzMyNyQlQCN0PWcu)
