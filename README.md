@@ -32,9 +32,6 @@ A tree is a noun, a **String** is a type of variable in Java.
   1. **Declare** the string like this: `String myNewString;`
   2. **Assign** it a value like this: `myNewString = "Is J.Cole the greatest rapper alive?";`
   3. **Use it** like this `System.out.println(myNewString);
-  
-### :hand:&nbsp; Stop!
-Watch [this video](https://www.youtube.com)
 
 ### What's the deal with printing?
 Java provides us with standard **methods** to do common things like printing.\
@@ -54,6 +51,9 @@ There are two ways to do this
       do ordain and establish this Constitution for the United States of 
     **/ 
   ```
+  
+### :hand:&nbsp; Stop!
+Watch [this video](https://themadeiraschool.sharepoint.com/sites/IntrotoCS/Shared%20Documents/General/Videos/lesson4Video1.mov)
 
 ### :ticket:&nbsp; C'est fini.
 Entry ticket for class [here](https://forms.office.com/Pages/ResponsePage.aspx?id=P9fbuiFvgkyZJ5ogeV5C0bXAAGShYuhAq0O_bKHZJnxURVRRTjBCR1g0NjJZRTBIREszQVYwVzMyNyQlQCN0PWcu)
